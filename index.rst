@@ -193,7 +193,15 @@ but with the expectation that more detail is forthcoming.
 
 **Examples:**
 
-  .. todo:: Add examples! Maybe one of those tie-a-bowtie GIFs I've seen.
+* The `Learn to Crochet`_ tumblog uses a familiarization GIF to introduce a detailed series of instructions.
+  It shows a process, but not each of the steps needed to do it (that comes in subsequent parts).
+
+  .. _Learn to Crochet: http://crochet-gifs.tumblr.com/
+
+  .. figure:: crochet_familiar.gif
+
+     *Learn to Crochet*'s familiarization GIF.
+     Thanks to Jaime Margalotti for this example.
 
 
 Instructional
