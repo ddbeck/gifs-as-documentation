@@ -282,10 +282,20 @@ Converting video to GIF
   .. __: https://www.ffmpeg.org
   .. __: https://gist.github.com/dergachev/4627207
 
-Converting stills to GIF
-------------------------
 
-.. todo:: Add link to tutorial that shows how to use ImageMagick to convert a directory of frames to GIF.
+
+Converting still images to GIF
+------------------------------
+
+* `ImageMagick`__ is a suite of tools for creating and manipulating images.
+  The `animate`__ command can be used to stitch together many individual still images
+  (e.g., a series of screenshots or photos) into an animated GIF.
+  ImageMagick bindings for many programming languages are also available.
+
+  Platforms: Linux, Mac OS X, Windows
+
+  .. __: http://www.imagemagick.org/script/index.php
+  .. __: http://www.imagemagick.org/script/animate.php
 
 
 
