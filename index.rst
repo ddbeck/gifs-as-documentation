@@ -217,9 +217,13 @@ Instructional GIFs show something that the viewer is meant to do themselves.
 
 **Examples**:
 
-*  Crochet GIFs.
+* The `Learn to Crochet`_ tumblog uses GIFs to show how to complete each individual step in crocheting.
+  Note its effective use of the pause at the end of the GIF.
 
-   .. todo:: Add crochet GIF.
+  .. figure:: crochet_step.gif
+
+     A *Learn to Crochet* GIF illustrating a single step.
+     Thanks to Jaime Margalotti for this example.
 
 
 Narrative
