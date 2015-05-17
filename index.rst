@@ -152,20 +152,32 @@ This is the most common kind of GIF as documentation that I've seen.
 
 **Examples:**
 
-*  The documentation for a Python library I wrote, Oraide, shows how the library simulates someone typing text.
+*  The documentation for a Python library I wrote, `Oraide`__, shows how the library simulates someone typing text.
    The GIF doesn't show the the interface to produce the results, just the result.
    The GIF alone provides insufficient information for the viewer to do the same.
 
-   .. todo:: Add Oraide GIF
+   .. __: http://oraide.rtfd.org/
 
-*  The Node.js library ADDNAME provides an interface for generating a graphical user interface (GUI) with curses.
+   .. figure:: oraide.gif
+
+      Oraide's simulated typing demo GIF
+
+*  The Node.js library `blessed`__ provides an interface for
+   generating a graphical user interface (GUI) similar to `curses`__.
    Their README contains a long animated GIF that shows what the library produces (that is to say, the GUI),
    but not the code to produce the interface.
-   There's no way that a viewer could produce the same results themselves by watching the GIF alone.
+   There's no way that a viewer could produce the same results themselves by watching the GIF alone,
+   but it does show what the library is capable of doing.
 
-   .. todo:: Add Node.js library name and link
-   .. todo:: Add link to curses description.
-   .. todo:: Add curses GIF
+   .. __: https://github.com/chjj/blessed#blessed
+   .. __: http://en.wikipedia.org/wiki/Curses_%28programming_library%29
+
+   .. figure:: blessed.gif
+
+      `blessed` Node.js library demo GIF.
+      Thanks to `Beau Gunderson`__ for this example.
+
+      .. __: https://twitter.com/beaugunderson/status/590677562831024130
 
 
 Familiarizing
