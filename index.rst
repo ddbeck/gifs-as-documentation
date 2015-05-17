@@ -22,15 +22,16 @@ If you have a suggestion to improve this guide, please `open an issue on GitHub`
 Why GIFs?
 =========
 
-The phrase "animated GIF" conjures up something frivolous but animation in general has a long history of being used to
-to do everything from `telling engaging stories`__ to helping people understand `complicated technical subjects`__.
+.. figure:: tumblr.gif
+
+   As Tumblr knows, GIFs are a lot of fun.
+
+Despite "animated GIF" conjuring up something frivolous, animation in general has a long history of being used to
+to do everything from `telling fairy tales`__ to helping people understand `complicated technical subjects`__.
 GIFs, as a specific form of short animation, have many strengths that make them a good tool for technical communicators:
 
-.. __: http://
-.. __: http://
-
-.. todo:: Add link to Apollo entry, descent, and landing animation.
-.. todo:: Add link to some old, famous animated movie.
+.. __: http://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)
+.. __: https://www.youtube.com/watch?v=aW5ozq4Tqew
 
 * GIFs are much easier to make than high definition video.
   GIFs have lower audience expectations, because GIFs are silent and often grainy, short, and low-resolution.
