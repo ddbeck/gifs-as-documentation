@@ -128,13 +128,13 @@ This is by far the most common way GIFs are used in documentation, but they're r
 
 **Examples:**
 
-*  It's happening!
+.. figure:: riker_deal_with_it.gif
 
- .. todo:: add Ron Paul "It's happening!" GIF
+   "Deal With It" featuring Commander Riker
 
-*  Deal with it
+.. figure:: ron_paul_happening.gif
 
- .. todo:: add Riker beard GIF
+   "It's happening!" featuring American politician Ron Paul
 
 
 
