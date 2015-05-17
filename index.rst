@@ -211,8 +211,8 @@ Instructional GIFs show something that the viewer is meant to do themselves.
 
 **Patterns**:
 
-*  Showing a single step of a task.
-*  Showing a single step of a task with annotations.
+*  Showing a single step of a task with or without annotations
+*  Showing multiple steps of a task with or without annotations
 *  The screencast in miniature
 
 **Examples**:
