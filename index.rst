@@ -273,9 +273,14 @@ Recording directly to GIF
 Converting video to GIF
 -----------------------
 
-.. todo:: Add link to tutorial that shows how to use ffmpeg or ImageMagick to convert video to GIF
+* `ffmpeg`__ is a command-line tool that can convert existing video formats (e.g., MP4, QuickTime) to GIF,
+  with the option to select specific time sequences and other features.
+  `This guide`__ (for Mac OS X, but useful for all platforms) illustrates how you might use ffmpeg for making GIFs.
 
+  Platforms: Linux, Mac OS X, Windows
 
+  .. __: https://www.ffmpeg.org
+  .. __: https://gist.github.com/dergachev/4627207
 
 Converting stills to GIF
 ------------------------
