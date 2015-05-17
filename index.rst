@@ -258,13 +258,16 @@ This section attempts to suggest tools and other resources for using such
 Recording directly to GIF
 -------------------------
 
-* LICEcap captures part of your screen, like other screencasting software, and saves the result as an animated GIF.
+* `LICEcap`__ captures part of your screen, like other screencasting software, and saves the result as an animated GIF.
   This is quite possibly the easiest way to make an animated GIF,
   though it's only useful for making software-related documentation.
 
-  .. todo:: Add link to LICEcap
+  Platforms: Mac OS X, Windows.
 
-.. todo:: Add links to GIF apps for Android
+  .. __: http://www.cockos.com/licecap/
+
+.. todo:: Get recommendations for an iOS GIF camera
+.. todo:: Test some Android GIF cameras
 
 
 Converting video to GIF
