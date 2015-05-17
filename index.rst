@@ -302,13 +302,30 @@ Converting still images to GIF
 Additional resources
 ====================
 
-* GIFsicle is a useful tool for optimizing GIFs.
+Tools
+-----
+
+* Gifsicle__ is a useful tool for optimizing GIFs.
   It can significantly reduce your GIF's file size,
   enabling you to use it bandwidth or file-sized constrained contexts like mobile browsers and Twitter.
   (which imposes a somewhat draconian file size limitation).
+  It's especially useful in conjuction with other tools that make GIFs,
+  because many of them do no optimization of their own.
 
-  .. todo:: Link to GIFsicle
+  .. __: http://www.lcdf.org/gifsicle/
 
-.. todo:: Add links to image hosting services
+* `Giphy`__ is a search engine for GIFs.
+  It's great for finding inspiration and decorative GIFs.
 
-.. todo:: Add link to giphy
+  .. __: http://giphy.com/
+
+
+Reading
+-------
+
+* `Using Animated GIF Images for Library Instruction`__ by Karl Suhr
+  examines using GIFs in the context of information literacy and library instruction.
+
+  .. __: http://www.inthelibrarywiththeleadpipe.org/2014/using-animated-gif-images-for-library-instruction/
+
+
