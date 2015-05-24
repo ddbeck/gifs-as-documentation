@@ -20,9 +20,11 @@ If you have a suggestion to improve this guide, please `open an issue on GitHub`
 Why GIFs?
 =========
 
-.. figure:: tumblr.gif
+.. only:: html
 
-   As Tumblr knows, GIFs are a lot of fun.
+   .. figure:: tumblr.gif
+
+      As Tumblr knows, GIFs are a lot of fun.
 
 Despite "animated GIF" conjuring up something frivolous, animation in general has a long history of being used to
 to do everything from `telling fairy tales`__ to helping people understand `complicated technical subjects`__.
@@ -126,13 +128,15 @@ This is by far the most common way GIFs are used in documentation, but they're r
 
 **Examples:**
 
-.. figure:: riker_deal_with_it.gif
+.. only:: html
 
-   "Deal With It" featuring Commander Riker
+   .. figure:: riker_deal_with_it.gif
 
-.. figure:: ron_paul_happening.gif
+      "Deal With It" featuring Commander Riker
 
-   "It's happening!" featuring American politician Ron Paul
+   .. figure:: ron_paul_happening.gif
+
+      "It's happening!" featuring American politician Ron Paul
 
 
 
@@ -156,9 +160,11 @@ This is the most common kind of GIF as documentation that I've seen.
 
    .. __: http://oraide.rtfd.org/
 
-   .. figure:: oraide.gif
+   .. only:: html
 
-      Oraide's simulated typing demo GIF
+      .. figure:: oraide.gif
+
+         Oraide's simulated typing demo GIF
 
 *  The Node.js library `blessed`__ provides an interface for
    generating a graphical user interface (GUI) similar to `curses`__.
@@ -170,10 +176,12 @@ This is the most common kind of GIF as documentation that I've seen.
    .. __: https://github.com/chjj/blessed#blessed
    .. __: http://en.wikipedia.org/wiki/Curses_%28programming_library%29
 
-   .. figure:: blessed.gif
+   .. only:: html
 
-      `blessed` Node.js library demo GIF.
-      Thanks to `Beau Gunderson`__ for this example.
+      .. figure:: blessed.gif
+
+         `blessed` Node.js library demo GIF.
+         Thanks to `Beau Gunderson`__ for this example.
 
       .. __: https://twitter.com/beaugunderson/status/590677562831024130
 
@@ -196,10 +204,12 @@ but with the expectation that more detail is forthcoming.
 
   .. _Learn to Crochet: http://crochet-gifs.tumblr.com/
 
-  .. figure:: crochet_familiar.gif
+  .. only:: html
 
-     *Learn to Crochet*'s familiarization GIF.
-     Thanks to Jaime Margalotti for this example.
+     .. figure:: crochet_familiar.gif
+
+        *Learn to Crochet*'s familiarization GIF.
+        Thanks to Jaime Margalotti for this example.
 
 
 Instructional
@@ -218,10 +228,12 @@ Instructional GIFs show something that the viewer is meant to do themselves.
 * The `Learn to Crochet`_ tumblog uses GIFs to show how to complete each individual step in crocheting.
   Note its effective use of the pause at the end of the GIF.
 
-  .. figure:: crochet_step.gif
+  .. only:: html
 
-     A *Learn to Crochet* GIF illustrating a single step.
-     Thanks to Jaime Margalotti for this example.
+     .. figure:: crochet_step.gif
+
+        A *Learn to Crochet* GIF illustrating a single step.
+        Thanks to Jaime Margalotti for this example.
 
 
 Narrative
