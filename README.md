@@ -2,6 +2,9 @@
 
 The theory and practice of animated GIFs as documentation.
 
+If you want to read this guide, check it out on [Read the Docs](http://gifs-as-documentation.readthedocs.org/en/latest/).
+If you want more information on building or contributing to this guide, please continue reading this file.
+
 
 ## Author
 
