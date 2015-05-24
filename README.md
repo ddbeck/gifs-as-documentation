@@ -1,5 +1,12 @@
 # gifs-as-documentation
+
 The theory and practice of animated GIFs as documentation.
+
+
+## Author
+
+*GIFs as Documentation* was written by Daniel D. Beck ([@ddbeck](https://twitter.com/ddbeck)).
+Suggestions for additional content were provided the participants of the *GIFs in Docs* unconference session at [Write the Docs 2015](http://www.writethedocs.org/conf/na/2015/).
 
 
 ## License

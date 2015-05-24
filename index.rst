@@ -5,8 +5,6 @@ GIFs as Documentation
 This is a short guide to using GIFs *in* documentation and *as* documentation.
 Animated GIFs are a great tool for making documentation, but it takes some special care and attention to make them work.
 
-This guide was started on May 16, 2015 by Daniel D. Beck on his flight to Portland, Oregon
-en route to attend the Write the Docs conference.
 Your contributions to this guide are welcome!
 If you have a suggestion to improve this guide, please `open an issue on GitHub`__ or `tweet @ddbeck`__.
 
